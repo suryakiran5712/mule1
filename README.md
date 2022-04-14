@@ -1,2 +1,2 @@
-# mule1
+# mulesoft_1
 first repo for muletraining
